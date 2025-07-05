@@ -1,0 +1,7 @@
+ceap
+├── Dockerfile
+├── ping_cryptos.py
+├── project_structure.txt
+├── README.md
+├── requirements.txt
+└── run.sh
